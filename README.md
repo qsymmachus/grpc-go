@@ -1,3 +1,7 @@
+# _Hey, why did you fork this?_
+
+I forked this repo to walk through the `grpc-go` [basics tutorial](https://grpc.io/docs/languages/go/basics/).
+
 # gRPC-Go
 
 [![Build Status](https://travis-ci.org/grpc/grpc-go.svg)](https://travis-ci.org/grpc/grpc-go)
